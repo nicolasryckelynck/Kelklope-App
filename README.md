@@ -12,6 +12,10 @@ KelklopeApp is a mobile application built with React Native. It provides a varie
 - **Expo**
 - **API CALLING**
 
+## Video Demo
+
+[![Watch the video](https://img.youtube.com/vi/V0lFmpiLfG8/0.jpg)](https://youtu.be/V0lFmpiLfG8)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
@@ -41,7 +45,3 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Contact
 
 For any queries, feel free to contact the author, Nicolas Ryckelynck.
-
-## Video Demo
-
-[![Watch the video](https://img.youtube.com/vi/V0lFmpiLfG8/0.jpg)](https://youtu.be/V0lFmpiLfG8)
