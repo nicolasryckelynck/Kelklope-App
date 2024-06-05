@@ -12,17 +12,6 @@ KelklopeApp is a mobile application built with React Native. It provides a varie
 - **Expo**
 - **API CALLING**
 
-## Project Structure
-
-The project is structured as follows:
-
-[App.js]: The entry point of the application.
-src/: Contains the source code of the application.
-navigation/: Contains the navigation related code.
-redux/: Contains the Redux state management code.
-screens/: Contains the code for different screens in the application.
-assets/: Contains the assets used in the application like images and fonts.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
@@ -30,3 +19,6 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Contact
 
 For any queries, feel free to contact the author, Nicolas Ryckelynck.
+
+[![Watch the video]
+(https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/V0lFmpiLfG8)
