@@ -16,13 +16,12 @@ KelklopeApp is a mobile application built with React Native. It provides a varie
 
 The project is structured as follows:
 
-KelklopeApp/
-├── [App.js] # The entry point of the application
-├── src/ # Contains the source code of the application
-│ ├── navigation/ # Contains the navigation related code
-│ ├── redux/ # Contains the Redux state management code
-│ ├── screens/ # Contains the code for different screens in the application
-├── assets/ # Contains the assets used in the application like images and fonts
+[App.js]: The entry point of the application.
+src/: Contains the source code of the application.
+navigation/: Contains the navigation related code.
+redux/: Contains the Redux state management code.
+screens/: Contains the code for different screens in the application.
+assets/: Contains the assets used in the application like images and fonts.
 
 ## License
 
