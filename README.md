@@ -21,4 +21,4 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 For any queries, feel free to contact the author, Nicolas Ryckelynck.
 
 [![Watch the video]
-(https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/V0lFmpiLfG8)
+<iframe width="560" height="315" src="https://youtu.be/V0lFmpiLfG8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
