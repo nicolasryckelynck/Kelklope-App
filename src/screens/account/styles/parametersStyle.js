@@ -1,0 +1,95 @@
+import {StyleSheet, Dimensions} from "react-native";
+
+const {height, width} = Dimensions.get("window");
+
+export const styles = StyleSheet.create({
+  body: {flexDirection: "column", top: height * 0.02, left: width * 0.1},
+  pushNotificationsTitle: {
+    fontFamily: "ManropeRegular",
+    fontSize: 16,
+    right: width * 0.02,
+  },
+  activateNotificationsView: {
+    backgroundColor: "#fff",
+    borderColor: "#fff",
+    borderWidth: 1,
+    borderRadius: 8,
+    top: height * 0.03,
+    width: width * 0.88,
+    height: height * 0.06,
+    flexDirection: "row",
+    paddingVertical: 16,
+    paddingHorizontal: 5,
+    right: 10,
+  },
+  activateNotificationsText: {
+    fontFamily: "ManropeSemiBold",
+    fontSize: 15,
+    color: "#262626",
+    left: 6,
+  },
+  switchActiveNotfications: {
+    left: width * 0.24,
+  },
+  allNotificationTypes: {},
+  flexDirectionColumn: {flexDirection: "column", width: "60%"},
+  activeAlertPriceView: {
+    flexDirection: "row",
+    top: height * 0.05,
+    backgroundColor: "#fff",
+    borderWidth: 1,
+    borderColor: "#fff",
+    borderBottomColor: "#B6B6B6",
+    width: width * 0.88,
+    height: height * 0.08,
+    right: 10,
+    marginBottom: 10,
+  },
+  alertPriceTitle: {
+    fontFamily: "ManropeSemiBold",
+    fontSize: 15,
+    color: "#262626",
+    marginTop: 5,
+  },
+  alertPriceDescription: {
+    fontFamily: "ManropeRegular",
+    color: "#666666",
+    fontSize: 13,
+  },
+  evolutionPriceDescription: {
+    fontFamily: "ManropeRegular",
+    color: "#666666",
+    width: width * 0.7,
+    fontSize: 13,
+    top: 4,
+  },
+  recommandationsProductText: {
+    fontFamily: "ManropeSemiBold",
+    top: 7,
+    left: 10,
+    fontSize: 15,
+    color: "#262626",
+  },
+  goodPlans: {
+    fontFamily: "ManropeSemiBold",
+    top: 7,
+    left: 10,
+    fontSize: 15,
+    color: "#262626",
+  },
+  deleteAccount: {
+    top: height * 0.25,
+    width: width * 0.42,
+    borderRadius: 10,
+    borderWidth: 1,
+    borderColor: "#CB0000",
+    height: height * 0.04,
+    left: width * 0.18,
+  },
+  textButton: {
+    fontWeight: "500",
+    color: "#fff",
+    textAlign: "center",
+    padding: 10,
+  },
+});
